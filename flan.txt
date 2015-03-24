@@ -1,0 +1,7 @@
+eggs 2
+milk 1 litter
+Corn stach 80g
+Sugar 100 g
+vanilla 2 seeds
+:qw
+
